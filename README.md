@@ -1,4 +1,7 @@
 ![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
+# Pi-Programs
+A repo to house all the programs that are on the MTIID
+
 <p align="center">
   <a href="https://github.com/Calarts-Creative-Computing/Pi-Programs/stargazers">
     <img src="https://img.shields.io/github/stars/Calarts-Creative-Computing/Pi-Programs?style=social" alt="Stars">
@@ -34,5 +37,4 @@
     <img src="https://img.shields.io/badge/Download-ZIP-28a745?logo=github" alt="Download ZIP">
   </a>
 </p>
-# Pi-Programs
-A repo to house all the programs that are on the MTIID
+
