@@ -38,3 +38,6 @@ A repo to house all the programs that are on the MTIID
   </a>
 </p>
 
+<p align="center">
+  <img src="https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png" alt="Calarts Creative Computing Logo" width="300"/>
+</p>
